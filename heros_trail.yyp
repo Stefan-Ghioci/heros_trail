@@ -74,6 +74,7 @@
     {"id":{"name":"snd_chest_locked","path":"sounds/snd_chest_locked/snd_chest_locked.yy",},},
     {"id":{"name":"spr_gate_wood_1","path":"sprites/spr_gate_wood_1/spr_gate_wood_1.yy",},},
     {"id":{"name":"spr_pillar_fallen","path":"sprites/spr_pillar_fallen/spr_pillar_fallen.yy",},},
+    {"id":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},},
     {"id":{"name":"spr_baddie_walk_up","path":"sprites/spr_baddie_walk_up/spr_baddie_walk_up.yy",},},
     {"id":{"name":"obj_menu_manager","path":"objects/obj_menu_manager/obj_menu_manager.yy",},},
     {"id":{"name":"spr_baddie_walk_down","path":"sprites/spr_baddie_walk_down/spr_baddie_walk_down.yy",},},

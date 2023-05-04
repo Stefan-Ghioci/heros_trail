@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy_parent",
+  "name": "obj_sword",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_sword","path":"objects/obj_sword/obj_sword.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Game/Enemies.yy",
+    "name": "Game",
+    "path": "folders/Objects/Game.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_sword_attack",
+    "path": "sprites/spr_sword_attack/spr_sword_attack.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

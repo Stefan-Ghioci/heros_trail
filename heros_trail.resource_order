@@ -21,6 +21,7 @@
     {"name":"snd_chest_locked","order":9,"path":"sounds/snd_chest_locked/snd_chest_locked.yy",},
     {"name":"spr_gate_wood_1","order":7,"path":"sprites/spr_gate_wood_1/spr_gate_wood_1.yy",},
     {"name":"spr_pillar_fallen","order":3,"path":"sprites/spr_pillar_fallen/spr_pillar_fallen.yy",},
+    {"name":"obj_sword","order":4,"path":"objects/obj_sword/obj_sword.yy",},
     {"name":"spr_baddie_walk_up","order":3,"path":"sprites/spr_baddie_walk_up/spr_baddie_walk_up.yy",},
     {"name":"obj_menu_manager","order":2,"path":"objects/obj_menu_manager/obj_menu_manager.yy",},
     {"name":"spr_baddie_walk_down","order":1,"path":"sprites/spr_baddie_walk_down/spr_baddie_walk_down.yy",},
