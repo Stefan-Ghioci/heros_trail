@@ -89,6 +89,7 @@
     {"id":{"name":"spr_chest","path":"sprites/spr_chest/spr_chest.yy",},},
     {"id":{"name":"snd_bat_defeat","path":"sounds/snd_bat_defeat/snd_bat_defeat.yy",},},
     {"id":{"name":"spr_tileset_walls","path":"sprites/spr_tileset_walls/spr_tileset_walls.yy",},},
+    {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"path_enemy_3","path":"paths/path_enemy_3/path_enemy_3.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"spr_gate_iron_1","path":"sprites/spr_gate_iron_1/spr_gate_iron_1.yy",},},

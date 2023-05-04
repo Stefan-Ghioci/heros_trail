@@ -34,6 +34,7 @@
     {"name":"obj_pillar_fallen","order":6,"path":"objects/obj_pillar_fallen/obj_pillar_fallen.yy",},
     {"name":"spr_chest","order":3,"path":"sprites/spr_chest/spr_chest.yy",},
     {"name":"snd_bat_defeat","order":8,"path":"sounds/snd_bat_defeat/snd_bat_defeat.yy",},
+    {"name":"obj_coin","order":3,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"path_enemy_3","order":2,"path":"paths/path_enemy_3/path_enemy_3.yy",},
     {"name":"spr_gate_iron_1","order":5,"path":"sprites/spr_gate_iron_1/spr_gate_iron_1.yy",},
     {"name":"spr_player_walk_down","order":4,"path":"sprites/spr_player_walk_down/spr_player_walk_down.yy",},
